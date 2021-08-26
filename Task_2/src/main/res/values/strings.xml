@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="edit_text_hint">Input url</string>
+    <string name="enter">Или нажми Enter</string>
+</resources>

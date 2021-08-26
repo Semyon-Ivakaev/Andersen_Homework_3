@@ -1,0 +1,4 @@
+rootProject.name = "Andersen Homework 3"
+include ':Task_1_Canvas'
+include ':Task_2'
+include ':Task_1'
